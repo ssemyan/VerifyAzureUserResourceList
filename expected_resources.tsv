@@ -1,0 +1,9 @@
+Microsoft.Network/networkWatchers   1
+Microsoft.Compute/disks 1
+Microsoft.Compute/virtualMachines   1
+Microsoft.DevTestLab/schedules  1
+Microsoft.Network/networkInterfaces 1
+Microsoft.Network/networkSecurityGroups 1
+Microsoft.Network/publicIPAddresses 1
+Microsoft.Network/virtualNetworks   1
+Microsoft.Storage/storageAccounts   2
